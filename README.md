@@ -14,3 +14,4 @@
 /registration.php - контроллер для страницы регистрации;
 /DB.sql - файл для импорта БД;
 # test_codeit2
+# test_codeit3
